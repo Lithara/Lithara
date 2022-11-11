@@ -1,13 +1,11 @@
-[![MasterHead](https://f8n-production.s3.amazonaws.com/creators/profile/j1rn4yq4s-bannergif-gif-owsb61.gif)](https://lithara.io)
+[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://lithara.io)
 <h1 align="center">Hi 👋, I'm Lithara Perera</h1>
 <h3 align="center">An Undergraduate for Software Engineering</h3>
-
-<img align="right"  alt="octocat" width="300" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lithara&label=Profile%20views&color=0e75b6&style=flat" alt="lithara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lithara" alt="lithara" /></a> </p>
-
+<img align="right"  alt="octocat" width="300" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
 - 🌱 I’m currently learning **HTML,CSS,JAVA & UI/UX Designing**
 
 - 📫 How to reach me **litharaperera2002@gmail.com**
