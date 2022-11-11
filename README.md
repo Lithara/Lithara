@@ -1,6 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://lithara.io)
 <h1 align="center">Hi 👋, I'm Lithara Perera</h1>
-<h3 align="center">An Undergraduate for Software Engineering</h3>
+<h3 align="center">Software Engineering Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lithara&label=Profile%20views&color=0e75b6&style=flat" alt="lithara" /> </p>
 
@@ -31,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lithara&show_icons=true&locale=en" alt="lithara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithara&" alt="lithara" /></p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h2>Achievements</h2>
+
+[![@lithara's Holopin board](https://holopin.me/lithara)](https://www.holopin.io/@lithara)
