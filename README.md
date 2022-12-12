@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lithara" alt="lithara" /></a> </p>
 <img align="right"  alt="octocat" width="300" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
-- 🌱 I’m currently learning HTML,CSS,JAVA & UI/UX Designing
+- 🌱 I’m currently learning HTML,CSS,JS & UI/UX Designing
 
 - 📫 How to reach me **litharaperera2002@gmail.com**
 
