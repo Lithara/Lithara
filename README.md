@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lithara&label=Profile%20views&color=0e75b6&style=flat" alt="lithara"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lithara" alt="lithara" /></a> </p>
+<br>
 <img align="right"  alt="octocat" width="300" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
 - 🌱 I’m currently learning HTML,CSS,JS & UI/UX Designing
 
 - 📫 How to reach me **litharaperera2002@gmail.com**
 
 - ⚡ Fun fact is **I am funny and I love to travel**
-<br>
 <h3 align="left">Connect with me:</h3>
 <img aligh="right" alt="octocat" width="300" src="https://octodex.github.com/images/NUX_Octodex.gif">
 <p align="left">
