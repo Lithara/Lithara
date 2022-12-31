@@ -11,7 +11,7 @@
 - 📫 How to reach me **litharaperera2002@gmail.com**
 
 - ⚡ Fun fact is **I am funny and I love to travel**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <img aligh="right" alt="octocat" width="300" src="https://octodex.github.com/images/NUX_Octodex.gif">
 <p align="left">
