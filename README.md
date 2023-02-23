@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lithara&show_icons=true&locale=en&layout=compact" alt="lithara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lithara&show_icons=true&locale=en" alt="lithara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lithara&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="lithara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithara&theme=midnight-purple" alt="lithara" /></p>
 
