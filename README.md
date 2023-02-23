@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lithara&show_icons=true&locale=en" alt="lithara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithara&" alt="lithara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="lithara" /></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2>Achievements</h2>
