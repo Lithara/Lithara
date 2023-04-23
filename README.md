@@ -1,9 +1,9 @@
 <div align = "center">
   
+![LinkedIn cover new](https://user-images.githubusercontent.com/113939177/233418745-68eaf654-7864-4f75-a794-c9d20a1c7b6d.png)
+  
 <h3 align="center">I'm Lithara Perera from Sri Lanka</h3>
 <h6 align="center">UI/UX Designer | Web Development Enthusiast | Undergraduate</h6>
-
-![LinkedIn cover new](https://user-images.githubusercontent.com/113939177/233418745-68eaf654-7864-4f75-a794-c9d20a1c7b6d.png)
 
 <a href ="https://www.linkedin.com/in/lithara-perera/"> Linkedin</a> .
 <a href ="https://www.behance.net/lithara-perera"> Behance</a> .
