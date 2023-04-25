@@ -1,6 +1,6 @@
 <div align = "center">
   
-![LinkedIn cover new](https://user-images.githubusercontent.com/113939177/233418745-68eaf654-7864-4f75-a794-c9d20a1c7b6d.png)
+![Untitled-1](https://user-images.githubusercontent.com/113939177/234394795-a70258ed-b5b2-4103-ad8d-83d5ad260f4c.gif)
   
 <h3 align="center">I'm Lithara Perera from Sri Lanka</h3>
 <h6 align="center">UI/UX Designer | Web Development Enthusiast | Undergraduate</h6>
