@@ -1,7 +1,8 @@
 <div align = "center">
   
-![Untitled-1](https://user-images.githubusercontent.com/113939177/234394795-a70258ed-b5b2-4103-ad8d-83d5ad260f4c.gif)
-  
+![github](https://user-images.githubusercontent.com/113939177/234396050-8e44459d-62d7-45fe-90f1-e85ef09cbe03.gif)
+
+
 <h3 align="center">I'm Lithara Perera from Sri Lanka</h3>
 <h6 align="center">UI/UX Designer | Web Development Enthusiast | Undergraduate</h6>
 
