@@ -7,7 +7,8 @@
 <hr>
    
 <br>
-<h3 align="center">UI/UX Designer | Web Development Enthusiast | Undergraduate</h3>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=UI+%2F+UX+Designer;Web+Development+Enthusiast;Undergraduate)](https://git.io/typing-svg)
+<!--<h3 align="center">UI/UX Designer | Web Development Enthusiast | Undergraduate</h3>-->
 <br>
   
 <a href ="https://www.linkedin.com/in/lithara-perera/"> Linkedin</a> .
