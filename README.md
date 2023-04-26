@@ -4,7 +4,7 @@
 
 
 <h3 align="center">I'm Lithara Perera from Sri Lanka</h3>
-<h6 align="center">UI/UX Designer | Web Development Enthusiast | Undergraduate</h6>
+<h5 align="center">UI/UX Designer | Web Development Enthusiast | Undergraduate</h6>
 
 <a href ="https://www.linkedin.com/in/lithara-perera/"> Linkedin</a> .
 <a href ="https://www.behance.net/lithara-perera"> Behance</a> .
@@ -18,6 +18,6 @@
 <span><img align="center"  alt="octocat" width="300" src="https://octodex.github.com/images/hula_loop_octodex03.gif"></span>
 
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lithara&layout=compact" alt="lithara" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithara&theme=default" alt="lithara" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithara&theme=chartreuse-dark" alt="lithara" />
 
 </div>
