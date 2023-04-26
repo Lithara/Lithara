@@ -1,9 +1,9 @@
 <div align = "center">
   
 ![github](https://user-images.githubusercontent.com/113939177/234396050-8e44459d-62d7-45fe-90f1-e85ef09cbe03.gif)
-
+<br>
 <h3 align="center">UI/UX Designer | Web Development Enthusiast | Undergraduate</h3>
-
+<br>
 <a href ="https://www.linkedin.com/in/lithara-perera/"> Linkedin</a> .
 <a href ="https://www.behance.net/lithara-perera"> Behance</a> .
 <a href ="https://www.instagram.com/lithara.perera/"> Instagram</a> .
