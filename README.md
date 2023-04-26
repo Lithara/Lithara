@@ -20,7 +20,12 @@
   
 <span><img align="center"  alt="octocat" width="300" src="https://octodex.github.com/images/hula_loop_octodex03.gif"></span>
 
-<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lithara&layout=compact&theme=chartreuse-dark" alt="lithara" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithara&theme=chartreuse-dark" alt="lithara" />
+<div align="center">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lithara&layout=compact&theme=chartreuse-dark" alt="lithara" />
+ </div>
+  
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithara&theme=chartreuse-dark" alt="lithara" />
+</div>
 
 </div>
