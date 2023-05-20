@@ -22,7 +22,7 @@
  
 <div align="center">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lithara&layout=compact&theme=chartreuse-dark" alt="lithara" />
- </div>
+</div>
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithara&theme=chartreuse-dark" alt="lithara" />
