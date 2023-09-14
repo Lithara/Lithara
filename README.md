@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=FFFFFF&center=true&width=435&lines=Microsoft+Learn+Student+Ambassador;UI+%2F+UX+Designer;Web+Development+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=FFFFFF&center=true&width=435&lines=UI+%2F+UX+Designer;Web+Developer;Microsoft+Learn+Student+Ambassador;" alt="Typing SVG" /></a>
 
 <!--<h3 align="center">UI/UX Designer | Web Development Enthusiast | Undergraduate</h3>-->
 
